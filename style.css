@@ -1,0 +1,17 @@
+.special:hover{
+    color: indianred;
+    font-size: 30px;
+    background-color: indigo;
+}
+input:focus{
+    font-weight: 700;
+    color: lightcoral;
+    font-size: 20px;
+}
+li:nth-child(2n+1){
+    background-color: lightgreen;
+    width: 4%;
+}
+a:visited{
+    color:red;
+}
